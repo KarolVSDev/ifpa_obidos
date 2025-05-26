@@ -7,6 +7,5 @@ Este repositório destina-se ao controle de atividades da palestra sobre Git min
 Ana Karoline Vieira de Souza
 
 Test de souza
-=======
+
 Diogo Batista dos Santos
->>>>>>> 961f27b (Adicionando um nome)
