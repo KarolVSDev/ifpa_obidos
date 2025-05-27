@@ -6,8 +6,3 @@ teste 123
 
 TESTANDO
 
-IFPA CAMPUS ÓBIDOS
-
-ANA KAROLINE VIEIRA DE SOUZA
-
-Testando de Souza
