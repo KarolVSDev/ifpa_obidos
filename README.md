@@ -1,5 +1,5 @@
 # ifpa_obidos
-Este repositório destina-se ao controle de atividades da palestra sobre Git ministrada para alunos do IFPA - Campus Óbidos
+teste 123
 
 # Adicionem seus nomes aqui
 
