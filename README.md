@@ -3,7 +3,5 @@ teste 123
 
 # Adicionem seus nomes aqui
 
-PARÁ 
-
-TESTANDO
+GIT PUSH
 
